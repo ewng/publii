@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Liu Yingyu 刘英宇</title>
+    <link href="https://ewng.github.io/publii/feed.xml" rel="self" />
+    <link href="https://ewng.github.io/publii" />
+    <updated>2022-10-10T11:14:31+08:00</updated>
+    <author>
+        <name>刘英宇</name>
+    </author>
+    <id>https://ewng.github.io/publii</id>
+
+    <entry>
+        <title>g</title>
+        <author>
+            <name>刘英宇</name>
+        </author>
+        <link href="https://ewng.github.io/publii/g.html"/>
+        <id>https://ewng.github.io/publii/g.html</id>
+
+        <updated>2022-10-10T11:14:31+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://ewng.github.io/publii/media/posts/1/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://ewng.github.io/publii/media/posts/1/responsive/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000-xs.jpg 300w ,https://ewng.github.io/publii/media/posts/1/responsive/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000-sm.jpg 480w ,https://ewng.github.io/publii/media/posts/1/responsive/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000-md.jpg 768w ,https://ewng.github.io/publii/media/posts/1/responsive/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000-lg.jpg 1024w"  alt="" width="3381" height="2500"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Liu Yingyu 刘英宇",
+    "description": "",
+    "home_page_url": "https://ewng.github.io/publii",
+    "feed_url": "https://ewng.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "刘英宇"
+    },
+    "items": [
+        {
+            "id": "https://ewng.github.io/publii/g.html",
+            "url": "https://ewng.github.io/publii/g.html",
+            "title": "g",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ewng.github.io/publii/media/posts/1/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ewng.github.io/publii/media/posts/1/responsive/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000-xs.jpg 300w ,https://ewng.github.io/publii/media/posts/1/responsive/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000-sm.jpg 480w ,https://ewng.github.io/publii/media/posts/1/responsive/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000-md.jpg 768w ,https://ewng.github.io/publii/media/posts/1/responsive/001_09-Zhu-Wo_Hu-Dong-Shi-Deng-Guang-Hun-He-0000-lg.jpg 1024w\"  alt=\"\" width=\"3381\" height=\"2500\"></figure>",
+            "author": {
+                "name": "刘英宇"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-10T11:14:31+08:00",
+            "date_modified": "2022-10-10T11:14:31+08:00"
+        }
+    ]
+}
